@@ -1,0 +1,7 @@
+{
+  "name": "Lulu Hypermarket Fire Alarm System",
+  "description": "A professional management and query system for fire alarm detectors across Lulu Hypermarket branches, featuring role-based access control and RTL support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
